@@ -41,3 +41,5 @@ def read_csv():
         list_final = [dict(zip(keys, values)) for values in arr_val]
         return list_final
 print(read_csv())
+
+#6
